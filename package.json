@@ -1,0 +1,21 @@
+{
+  "name": "note-taker-express",
+  "version": "1.0.0",
+  "description": "AS A user, I want to be able to write and save notes I WANT to be able to delete notes I've written before SO THAT I can organize my thoughts and keep track of tasks I need to complete",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayar-ali/note-taker-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayar-ali/note-taker-express/issues"
+  },
+  "homepage": "https://github.com/bayar-ali/note-taker-express#readme"
+}
