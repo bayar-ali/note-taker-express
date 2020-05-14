@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/bayar-ali/note-taker-express/issues"
   },
-  "homepage": "https://github.com/bayar-ali/note-taker-express#readme"
+  "homepage": "https://github.com/bayar-ali/note-taker-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
